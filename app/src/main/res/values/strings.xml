@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CellularWorld</string>
+    <string name="button_create">Сотворить</string>
+    <string name="title_cells">Клеточное наполнение</string>
+</resources>

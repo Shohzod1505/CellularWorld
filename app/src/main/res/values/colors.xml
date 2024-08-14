@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#FF5A3472</color>
+    <color name="gradient_start">#FF30024D</color>
+    <color name="cells_dead_gradient_start">#0D658A</color>
+    <color name="cells_dead_gradient_end">#B0FFB4</color>
+    <color name="cells_live_gradient_start">#FFB800</color>
+    <color name="cells_live_gradient_end">#FFF7B0</color>
+    <color name="cells_life_gradient_start">#AD00FF</color>
+    <color name="cells_life_gradient_end">#FFB0E9</color>
+</resources>
